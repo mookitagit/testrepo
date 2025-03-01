@@ -1,2 +1,2 @@
-# testrepo
-Un repositorio de pruebas 
+# testPA
+Un repositorio donde vamos a encontar los codigos de assambler.
